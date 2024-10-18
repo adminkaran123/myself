@@ -1,5 +1,24 @@
-# 💫 About Me:
-### About Me<br><br>- 👨‍💻 **Frontend/MERN Developer** with nearly **10 years of experience** in web and mobile app development.<br>- 🛠 Skilled in **React**, **React Native**, **Node.js**, **Express**, **MongoDB**, and **full-stack development**.<br>- 🔄 Expertise in integrating **HubSpot** and handling **complex business logic** for seamless workflows.<br>- 🌐 Worked with **global clients** in dynamic environments, excelling in **remote collaboration**.<br>- 🎨 Strong focus on **UI/UX design**, building reusable and modular components for optimized development.<br>- 📈 Proficient in **GraphQL**, **API integration**, **Redux**, **Material UI**, **Bootstrap**, and **jQuery**.<br>- 🔧 Experienced in managing **end-to-end projects**, from UI development to API data handling.<br>- 🎯 **Pixel-perfect designs** and **responsive web pages** with a focus on performance optimization and SEO.<br>- 🎓 Holds a **Master of Computer Applications (MCA)** and a **Bachelor of Commerce (B.Com)**.<br>- 🚀 Constantly learning and staying updated with the latest trends in **web development**.<br><br>
+Here’s an **updated About Me** section reflecting your experience with your startup projects:
+
+---
+
+### About Me
+
+- 👨‍💻 **Frontend/MERN Developer** with nearly **10 years of experience** in web and mobile app development.
+- 🛠 Skilled in **React**, **React Native**, **Node.js**, **Express**, **MongoDB**, and **full-stack development**.
+- 🔄 Expertise in integrating **HubSpot** and handling **complex business logic** for seamless workflows.
+- 🌐 Worked with **global clients** in dynamic environments, excelling in **remote collaboration**.
+- 🎨 Strong focus on **UI/UX design**, building reusable and modular components for optimized development.
+- 📈 Proficient in **GraphQL**, **API integration**, **Redux**, **Material UI**, **Bootstrap**, and **jQuery**.
+- 🔧 Experienced in managing **end-to-end projects**, from UI development to API data handling.
+- 🎯 **Pixel-perfect designs** and **responsive web pages** with a focus on performance optimization and SEO.
+- 🌐 **Tried launching two SaaS platforms**:
+  - [**FormMaker**](https://formmaker.co.in/): A tool for creating dynamic, multi-step forms with advanced features like field dependencies, calculations, and HubSpot integration.
+  - [**Anytime CPQ**](https://www.anytimecpq.com/): A CPQ (Configure, Price, Quote) solution designed to manage product libraries, build real-time quotes, and handle deal workflows. Though these ventures didn’t succeed, they were valuable learning experiences in SaaS development and entrepreneurship.
+- 🎓 Holds a **Master of Computer Applications (MCA)** and a **Bachelor of Commerce (B.Com)**.
+- 🚀 Constantly learning and staying updated with the latest trends in **web development**.
+
+---
 
 
 # 💻 Tech Stack:
