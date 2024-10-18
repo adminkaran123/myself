@@ -1,5 +1,3 @@
-Here’s an **updated About Me** section reflecting your experience with your startup projects:
-
 ---
 
 ### About Me
@@ -15,7 +13,6 @@ Here’s an **updated About Me** section reflecting your experience with your st
 - 🌐 **Tried launching two SaaS platforms**:
   - [**FormMaker**](https://formmaker.co.in/): A tool for creating dynamic, multi-step forms with advanced features like field dependencies, calculations, and HubSpot integration.
   - [**Anytime CPQ**](https://www.anytimecpq.com/): A CPQ (Configure, Price, Quote) solution designed to manage product libraries, build real-time quotes, and handle deal workflows. Though these ventures didn’t succeed, they were valuable learning experiences in SaaS development and entrepreneurship.
-- 🎓 Holds a **Master of Computer Applications (MCA)** and a **Bachelor of Commerce (B.Com)**.
 - 🚀 Constantly learning and staying updated with the latest trends in **web development**.
 
 ---
